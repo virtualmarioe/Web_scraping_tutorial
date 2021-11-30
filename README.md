@@ -1,3 +1,10 @@
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/virtualmarioe/Web_scraping_tutorial/main?labpath=web_scraping_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/virtualmarioe/Web_scraping_tutorial/blob/main/web_scraping_tutorial.ipynb)
+[![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/virtualmarioe/Web_scraping_tutorial/blob/main/LICENSE)
+
+
 <p><img alt="Web scraping tutorial" height="45px" src="https://aiconica.net/previews/spider-web-icon-1027.png" align="left" hspace="10px" vspace="0px"></p>
 
 <h1>Web scraping tutorial</h1>
@@ -16,6 +23,7 @@ The tutorial is divided into the following 4 sections:
  - **Section 4: Data saving**
  ____
  
- To run the tutorial you can download the notebook and run it local in your machine or online via Binder or <a href = "https://colab.research.google.com/">Google Colab</a>.
+ To run the tutorial you can download the notebook and run it local in your machine or online via <a href = "https://mybinder.org/">Binder</a> or <a href = "https://colab.research.google.com/">Google Colab</a> by directly clicking in the badges at the top of this page.
  
- If you have any question or comments don't hesitate to post them in the issues.
+### Questions?
+If you have any question or comments don't hesitate to post them in the issues.
