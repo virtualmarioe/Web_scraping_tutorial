@@ -1,5 +1,3 @@
-
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/virtualmarioe/Web_scraping_tutorial/main?labpath=web_scraping_tutorial.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/virtualmarioe/Web_scraping_tutorial/blob/main/web_scraping_tutorial.ipynb)
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/virtualmarioe/Web_scraping_tutorial/blob/main/LICENSE)
