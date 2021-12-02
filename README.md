@@ -21,7 +21,7 @@ The tutorial is divided into the following 4 sections:
  - **Section 4: Data saving**
  ____
  
- To run the tutorial you can download the notebook and run it local in your machine or online via <a href = "https://mybinder.org/">Binder</a> or <a href = "https://colab.research.google.com/">Google Colab</a> by directly clicking in the badges at the top of this page.
+ To run the tutorial you can download the notebook or the plain python tutorial (.py) in your local machine and run it locally you can run the tutorial online via <a href = "https://mybinder.org/">Binder</a> or <a href = "https://colab.research.google.com/">Google Colab</a> by directly clicking in the badges at the top of this page.
  
 ### Questions?
 If you have any question or comments don't hesitate to post them in the issues.
