@@ -7,7 +7,9 @@
 
 <h1>Web scraping tutorial</h1>
 
-This notebook presents an introduction to Web scraping. Web scraping is the process of extracting data from websites or other online sources and copying the data into an structured form (e.g., a database) enabling further retrieval and analysis.
+This tutorial aims to give a short an practical intro into Web scraping. The tutorial is not meant to be an extensive or by any mean complete documente for Web scraping. If you are interested in a more detailed tutorial I invite you to take a look at other excellent tutorials available online.
+
+Web scraping is the process of extracting data from websites or other online sources and copying the data into an structured form (e.g., a database) enabling further retrieval and analysis.
 
 For this particular tutorial, we are going to extract demografic information (e.g., country, state and population) of Colombian towns from <a href = "https://es.wikipedia.org/wiki/Municipios_de_Colombia"> Wikipedia</a>.
 
@@ -21,7 +23,7 @@ The tutorial is divided into the following 4 sections:
  - **Section 4: Data saving**
  ____
  
- To run the tutorial you can download the notebook and run it local in your machine or online via <a href = "https://mybinder.org/">Binder</a> or <a href = "https://colab.research.google.com/">Google Colab</a> by directly clicking in the badges at the top of this page.
+ To run the tutorial you can download the notebook or the plain python tutorial (.py) in your local machine and run it locally you can run the tutorial online via <a href = "https://mybinder.org/">Binder</a> or <a href = "https://colab.research.google.com/">Google Colab</a> by directly clicking in the badges at the top of this page.
  
 ### Questions?
 If you have any question or comments don't hesitate to post them in the issues.
